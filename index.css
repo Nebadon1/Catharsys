@@ -1,0 +1,13 @@
+html, body {width: auto!important; overflow-x: hidden!important}
+
+.jumbotron {
+    background-image: url("./images/larm-rmah-AEaTUnvneik-unsplash.jpg");
+    background-size: cover;
+  }
+  .btn-primary {
+    color: #fff;
+    background-color: #3d6c87;
+    border-color: #3d6c87;
+  }
+
+ 
