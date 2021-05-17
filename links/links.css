@@ -1,8 +1,9 @@
 html, body {width: auto!important; overflow-x: hidden!important}
 
 .jumbotron {
-    background-image: url("../images/krakenimages-Y5bvRlcCx8k-unsplash.jpg");
+    background-image: url("../images/branimir-balogovic-fAiQRv7FgE0-unsplash.jpg");
     background-size: cover;
+    
   }
   .btn-primary {
     color: #fff;
